@@ -1,16 +1,22 @@
 <h1 align="center">Hi 👋, I'm Thiện</h1>
 <h2 align="left">Connection profiles :</h2>
 <p align="left">
+   
    <a href="https://www.linkedin.com/in/taylorpmt" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"   alt="taylorpmt" height="40" width="50" />
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"   alt="taylorpmt" height="40" width="50" />
    </a>
+   
    <a href="https://www.facebook.com/thien.phamminh1998" target="blank">
-   <img align="center" src="https://cdn.simpleicons.org/facebook/0099ff"   alt="facebook" height="40" width="50" />
+     <img align="center" src="https://cdn.simpleicons.org/facebook/0099ff" alt="facebook" height="40" width="50" />
+   </a>
+   
+   <a href="https://trailblazer.me/id/thienphamminh300898" target="blank">
+     <img align="center" src="https://trailhead.salesforce.com/assets/trailhead-logo-5d3354441b4d8b97f21075b65e2aea266780d45943bbb36796ac25dc7cf4adc9.svg" alt="facebook" height="40" width="50" />
    </a>
 </p>
 <h2 align="left">Programming language and tools in developing an application 👋 </h2>
 <p align="left"> 
-   <a href="https://trailblazer.me/id/thienphamminh300898" target="_blank" rel="noreferrer"> 
+   <a href="https://www.salesforce.com/" target="_blank" rel="noreferrer"> 
       <img src="https://cdn.simpleicons.org/salesforce/0099ff" alt="salesforce" width="50" height="40"/> 
    </a> 
    <a href="https://www.php.net/" target="_blank" rel="noreferrer"> 
