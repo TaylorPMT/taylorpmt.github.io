@@ -1,11 +1,12 @@
 <h1 align="center">Hi 👋, I'm Thiện</h1>
 <p align="left">
-   👩‍💻I'm a web developer with experience in Salesforce (Apex, LWC, CMP), Laravel, JavaScript, MySQL, and Vue.js. 
-   I specialize in creating user-friendly web applications. 
-   🧠I have a strong background in Salesforce development and enjoy working with Laravel for backend systems. 
-   ⚡️On the frontend, I leverage JavaScript and Vue.js to build dynamic interfaces.
-   I'm dedicated to delivering high-quality solutions and always eager to learn new technologies.  
-   📫Let's connect and discuss potential collaborations! Thank you.
+   👩‍💻I'm a web developer with experience in Salesforce (Apex, LWC, CMP), Laravel, JavaScript, MySQL, and Vue.js. </br>
+   I specialize in creating user-friendly web applications. </br>
+   🧠I have a strong background in Salesforce development and enjoy working with Laravel for backend systems. </br> 
+   ⚡️On the frontend, I leverage JavaScript and Vue.js to build dynamic interfaces. </br>
+   I'm dedicated to delivering high-quality solutions and always eager to learn new technologies.</br>  
+   📫Let's connect and discuss potential collaborations!</br>
+    Thank you.
 </p>
 
 <h2 align="left">Connection profiles :</h2>
