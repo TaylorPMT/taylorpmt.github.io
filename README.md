@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Thiện</h1>
-<div align="center">
+<div align="left">
    <p>
       👨‍💻 I am a web developer with expertise in Salesforce (SFDC), Laravel, JavaScript, MySQL, and Vue.js.
 
