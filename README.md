@@ -4,7 +4,7 @@
       👨‍💻 I am a web developer with expertise in Salesforce (SFDC), Laravel, JavaScript, MySQL, and Vue.js.
 
       🌟 My focus is on creating user-friendly web applications . 
-         <br> where I excel in Salesforce development and enjoy working with the Laravel framework for building robust backend systems.
+         Where I excel in Salesforce development and enjoy working with the Laravel framework for building robust backend systems.
       
       💡 On the frontend, I harness the power of JavaScript and Vue.js to craft dynamic and engaging interfaces.
       
